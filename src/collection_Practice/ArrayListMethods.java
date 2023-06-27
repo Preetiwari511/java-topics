@@ -15,7 +15,6 @@ public class ArrayListMethods {
 		list.add('C');
 		list.add('A');
 		list.add(3,'C');
-		
 		list1.add('C');
 		list1.add('B');
 		

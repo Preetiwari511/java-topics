@@ -13,7 +13,6 @@ public class ArrayListTopic {
 		
 		arrayList.toArray(new String[3]);
 		
-		
 	}
 
 }
